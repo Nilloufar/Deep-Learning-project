@@ -1,0 +1,12 @@
+docopt
+joblib
+numpy
+pandas
+Pillow
+scikit-learn
+torch
+torchvision
+tqdm
+wandb
+nibabel
+dill
